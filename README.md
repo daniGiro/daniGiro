@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git.png" align="center;" width="100%">
+<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git_nobg" align="center;" width="100%">
 
 ## :man_technologist: About Me 
 
