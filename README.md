@@ -1,12 +1,7 @@
-<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git_nobg.png" align="center;" width="100%">
-
 # :man_technologist: About Me 
 
-<!--
-**daniGiro/daniGiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git_nobg.png" align="center;" width="100%">
 
-Here are some ideas to get you started:
--->
 - 🌍 I’m from Italy 🇮🇹
 - 🎓 I'm studying Statistical Sciences at University of Padova.
 - 💬 Ask me about anything. I will try to help you as much as I can.
