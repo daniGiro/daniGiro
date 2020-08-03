@@ -1,6 +1,6 @@
 # :man_technologist: About Me 
 
-<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git_nobg.png" align="center;" width="100%">
+<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git.png" align="center;" width="100%">
 
 - 🌍 I’m from Italy 🇮🇹
 - 🎓 I'm studying Statistical Sciences at University of Padova.
