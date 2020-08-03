@@ -1,8 +1,7 @@
-
+<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git_nobg.png" align="center;" width="100%">
 
 # :man_technologist: About Me 
 
-<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/pac_git_nobg.png" align="center;" width="100%">
 <!--
 **daniGiro/daniGiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
