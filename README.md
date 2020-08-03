@@ -1,6 +1,5 @@
-### :man_technologist_light_skin_tone: About Me 
-:man_technologist:
-:light_skin_tone:
+## :man_technologist: About Me 
+
 <!--
 **daniGiro/daniGiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
