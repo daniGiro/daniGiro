@@ -1,6 +1,6 @@
 # :man_technologist: About Me 
 <p align="center">
-<img src="img/pacmancol.svg" align="center" width="55%">
+<img src="https://raw.githubusercontent.com/daniGiro/daniGiro/master/img/pacmancol.svg" align="center" width="55%">
 </p>
 
 - 🌍 I’m from Italy 🇮🇹
