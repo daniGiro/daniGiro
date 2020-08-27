@@ -1,6 +1,7 @@
 # :man_technologist: About Me 
-
+<p align="center">
 <img src="img/pacmancol.svg" align="center" width="55%">
+</p>
 
 - 🌍 I’m from Italy 🇮🇹
 - 🎓 I'm studying Statistical Sciences at University of Padova.
