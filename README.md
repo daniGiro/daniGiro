@@ -4,7 +4,7 @@
 </p>
 
 - 🌍 I’m from Italy 🇮🇹
-- 🎓 I'm studying Statistical Sciences at University of Padova
+- 🎓 I'm studying Statistical Sciences at University of Padova (PhD Course)
 - 💬 Ask me about anything. I will try to help you as much as I can
 - 🔥 Hobbies: Books :books: | Music :headphones: | Sports :martial_arts_uniform:
 
